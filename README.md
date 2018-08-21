@@ -1,4 +1,4 @@
-# smlcrm
+# POSx
 
 ## Project setup
 ```
